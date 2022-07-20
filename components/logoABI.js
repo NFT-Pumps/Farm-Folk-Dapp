@@ -1,7 +1,6 @@
 export default function ContractABI() {
     return [
-        {
-            "inputs": [
+       [
    {
       "inputs":[
          {
@@ -1229,4 +1228,5 @@ export default function ContractABI() {
       "type":"receive"
    }
 ]
+    ]
 }
