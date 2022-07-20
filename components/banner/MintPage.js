@@ -160,14 +160,14 @@ const MintPage = () => {
                       </a>
                       <br />
                       <br />
-                      <h4 className="subtitle font-light" style={{ color: "#000000"}}>
+                      <h4 className="subtitle font-light" style={{ color: "#e9e2d5"}}>
                         NFT&apos;s minted {currentUseState.numMinted} of {process.env.maxMint}
                       </h4>
                       <br />
                       {currentUseState.hashHtml}
                     </>
                     :
-                    <h1 className="subtitle font-light" style={{ color: "#000000"}}>Public mint is currently closed!</h1>
+                    <h1 className="subtitle font-light" style={{ color: "#e9e2d5"}}>Public mint is currently closed!</h1>
                   }
                 </>
               </Col>
