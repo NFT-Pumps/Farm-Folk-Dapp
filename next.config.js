@@ -4,7 +4,7 @@ module.exports = {
   reactStrictMode: false,
   analyticsId: '7vsHWbYwcKpA3lFTng2Qe9iNzE7',
   env: {
-    siteTitle: "Stuffy Bunny NFT Minting Dapp",
+    siteTitle: "Farm Folk NFT Minting Dapp",
     contractAddress: "0x11ce921929a81D3926E80AEc264F6e38A8685C07",
     infuraID: "045e9c65387a4200aa8559c347fa19a4",
     defaultGas: 125000,//75000,
