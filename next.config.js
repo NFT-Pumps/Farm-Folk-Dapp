@@ -19,8 +19,8 @@ module.exports = {
     pageText : 'Mint and collect the Rootinest, Tootinest NFT ever.',
     //mintType: "Whitelist",
     blockExplorerURL: 'https://.etherscan.io/',
-    www: 'https://madmarchnft.com/',
-    mainWWW: 'https://madmarchnft.com/',
+    www: 'https://FarmFolkNFT.com/',
+    mainWWW: 'https://FarmFolkNFT.com/',
     title: 'FARM FOLK NFT',
     links : {
       opensea : "https://opensea.io/collection/Farm-Folk-NFT",
