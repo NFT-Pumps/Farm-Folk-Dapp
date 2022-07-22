@@ -23,7 +23,7 @@ module.exports = {
     mainWWW: 'https://FarmFolkNFT.com/',
     title: 'FARM FOLK NFT',
     links : {
-      opensea : "https://opensea.io/collection/Farm-Folk-NFT",
+      opensea : "https://opensea.io/collection/farm-folk-nft",
       discord : "https://discord.com/invite/hfyRXCuc",
       twitter : "https://twitter.com/FarmFolkNFT"
     },
