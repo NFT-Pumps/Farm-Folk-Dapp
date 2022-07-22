@@ -108,7 +108,7 @@ export default function Claim() {
                   <h3 className="title" style={{ color: "#e9e2d5"}}>
                     { process.env.pageHeader }
                   </h3>
-                  <h4 className="subtitle font-light" style={{ color: "#e9e2d5"}}>
+                  <h4 className="subtitle font-light" style={{ color: "#ce3a7f"}}>
                     { process.env.pageText }
                     <br />
                   </h4>
@@ -164,10 +164,10 @@ export default function Claim() {
                             </> :
                             <>
                               <hr />
-                              <h1 className="subtitle font-light" style={{ color: "#000000"}}>Communicating with the blockchain!</h1>
+                              <h1 className="subtitle font-light" style={{ color: "#ce3a7f"}}>Communicating with the blockchain!</h1>
                             </>}
                         </>
-                        : <h1 className="subtitle font-light" style={{ color: "#000000"}}>You are not on the whitelist</h1>
+                        : <h1 className="subtitle font-light" style={{ color: "#ce3a7f"}}>You are not on the whitelist</h1>
                       }
                       <a
                         onClick={() => walletBridge1.disconnect()}
