@@ -153,10 +153,10 @@ return {
     }
   },
   '0xCd43AdcB61949ab14D3f4574BFbDA53d46389715': {
-    q: 5,
+    q: 6,
     whitelistClaimPass: {
-      r: '0x27cc9ba8001deacf26eeead338c5ddd2079f1529245c776c16e041b4b0053e96',
-      s: '0x1838040c30545a014b83985366490a14be1ea83881cf3bb58a78975eb31585af',
+      r: '0x22968b558d3c0f236ec5e047ee3de11bdb1957860bd0a9f04bfe85e0d623b148',
+      s: '0x1d822afd00904820d62b291687ff7eee37a6b9454aa7a9a6edc2a466efe0706a',
       v: 27
     }
   },
