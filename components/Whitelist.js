@@ -33,11 +33,11 @@ return {
     }
   },
   '0xe67d102CAd14CAeEC42F4cFC7C862B1b0d305943': {
-    q: 4,
+    q: 8,
     whitelistClaimPass: {
-      r: '0xd93bb6c2a0d8ceefb852dc4067abd0b9be9c6a3b97aa7fa73708093fad06f470',
-      s: '0x5a5cf1b2b4a2e2dd9c38c5436b54e7c5b2b0c43fe07ca7e0539f061a57c206f6',
-      v: 27
+      r: '0xeb932a33df2f80a17f67ee0293da2d2355861c952a1e48023aaa52d80d685b34',
+      s: '0x616322b6dbdf373b81d6ba97aeace34a10a6eb3773b9dd5a320d436fa195daaa',
+      v: 28
     }
   },
   '0x5aa8C06f9DFc455Cf4005e4D923b5034EF97cdf7': {
