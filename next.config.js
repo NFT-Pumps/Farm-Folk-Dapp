@@ -18,7 +18,7 @@ module.exports = {
     pageHeader : 'FARM FOLK NFT',
     pageText : 'Mint and collect the Rootinest, Tootinest NFT ever.',
     //mintType: "Whitelist",
-    blockExplorerURL: 'https://.etherscan.io/',
+    blockExplorerURL: 'https://etherscan.io/',
     www: 'https://FarmFolkNFT.com/',
     mainWWW: 'https://FarmFolkNFT.com/',
     title: 'FARM FOLK NFT',
