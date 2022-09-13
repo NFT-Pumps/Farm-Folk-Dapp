@@ -472,6 +472,14 @@ return {
       v: 28
     }
   },
+  '0x5FfD8de19910EFff95Df729C54699aebCEe8f747': {
+    q: 1,
+    whitelistClaimPass: {
+      r: '0xb06072df32cd48ff016746b2f3bc50534740b358a80b90de58e11a41e1e3bc69',
+      s: '0x2eaa90c720ae8e90710d1a3d8a19363716cc284493e64baf8a4120dac2ba9301',
+      v: 27
+    }
+  },
   '0xf3C11bA805765Bd0aFce51f605FfDe875e04ef17': {
     q: 4,
     whitelistClaimPass: {
